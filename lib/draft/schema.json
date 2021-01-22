@@ -827,7 +827,8 @@
               "water",
               "wifi ssid",
               "wind direction",
-              "wind speed"
+              "wind speed",
+              "radar"
             ]
           }
         },
